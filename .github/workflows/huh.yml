@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "from userbot"
+          find: "userbot"
 
-          replace: "from ULTRA"
+          replace: "NexGEN_uB"
 
       - name: Create Pull Request
 
